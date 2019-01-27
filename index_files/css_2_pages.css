@@ -1,0 +1,26 @@
+
+body{font-size:62.5%;font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;color:#363636;line-height:170%;}
+hr{border-color:#c8c8c7; border-style:dashed;border-width:1px 0 0; clear:both; height:0; }
+
+#page{}a:link,a:visited{color:#0072bc;text-decoration:none;}a:hover,a:active{color:#a0410d;}
+
+#main-menu-wrapper{font-size:1.5em;}
+#main{font-size:1.5em;}
+
+#Title {font-size:20px; line-height: 1.2em; font-family:Georgia,"Helvetica Neue",Arial,Helvetica,sans-serif; margin-bottom:20px;}
+#main{}#main-wrapper{padding-top:20px;background-color:#fff;}.content-padding,.region-content .block-views .block-padding1{padding:0 20px; }.content-padding .content-padding{padding:0;}
+
+
+#main .content{padding:0 0px;}.block .block{padding:0;}
+
+
+.region-columns h2{}#columns .block-padding,#page .block-bean{padding:20px;}
+#Title {text-align: left ;}
+
+#columns{background-image:url(../images/dividersPagess.png);}
+.event-cal-event{overflow:auto;margin:20px 0;font-size:80%;}
+.event-cal-event a{font-size:125%;display:block;margin-bottom:5px;}
+
+
+.item-list ul li{margin-bottom:15px;font-family:Helvetica,Arial,sans-serif; text-align: left ;}
+
